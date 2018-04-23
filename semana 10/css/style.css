@@ -1,0 +1,209 @@
+body {
+	font-family: 'Spectral', serif;
+	font-family: 'Spectral SC', serif;
+}
+
+#prin {
+	display: flex;
+	justify-content: center;
+}
+
+#name {
+	font-family: 'Spectral SC', serif;
+	text-transform: uppercase;
+	font-weight: 800;
+	font-size: 100px;
+	letter-spacing: 5px;
+	margin-left: 18%;
+	margin-right: 18%;
+	margin-top: 18%;
+	margin-bottom: 5%;
+}
+
+#homenav {
+	display: flex;
+	justify-content: center;
+	font-family: 'Spectral', serif;
+	text-transform: uppercase;
+	font-weight: 600;
+	margin-bottom: 15%;
+}
+
+#homenav li {
+	display: inline-flex;
+}
+
+.homeli {
+	margin-right: 30px;
+}
+
+#homeul {
+	color: black;
+}
+
+#homeul a {
+	text-decoration: none;
+}
+
+.stanhead {
+	display: flex;
+	align-content: space-around;
+}
+
+.standard {
+	font-family: 'Spectral SC', serif;
+	text-transform: uppercase;
+	font-weight: 800;
+	font-size: 30px;
+	margin: 3%;
+	margin-left: 5%;
+}
+
+.stannav {
+	font-family: 'Spectral', serif;
+	font-size: 13px;
+	text-transform: uppercase;
+	font-weight: 600;
+	margin-left: 50%;
+}
+
+.stanul li {
+	display: inline-flex;
+	margin-top: 20%;
+}
+
+.stanli {
+	margin-right: 15px;
+}
+
+.stanul {
+	color: black;
+}
+
+h4 {
+	display: flex;
+	font-family: 'Spectral', serif;
+	font-size: 17px;
+	justify-content: center;
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: 6%;
+}
+
+p {
+	display: flex;
+	font-family: 'Spectral', serif;
+	font-size: 15px;
+	justify-content: center;
+	text-align: center;
+	margin-top: 1%;
+	margin-left: 35%; 
+	margin-right: 35%;
+	margin-bottom: 17%;
+	line-height: 2;
+}
+
+.socials img {
+	display: inline-flex;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	display: flex;
+	justify-content: center;
+	font-family: 'Spectral', serif;
+	text-transform: uppercase;
+	font-weight: 600;
+	font-size: 25px;
+	letter-spacing: 2px;
+}
+
+#section {
+	justify-content: space-between;
+	align-items: center;
+
+}
+
+article {
+	padding: 30px;
+	text-align: center;
+}
+
+.sect1, .sect2, .sect3 {
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+}
+
+.art1, .art2, .art3, .art4 {
+	width: 455px;
+	height: 340px;
+	border: 5px double black;
+}
+
+.arti {
+	display: flex;
+	flex-direction: row;
+    padding: 10px;
+    margin: 40px; 
+	background-color: white;
+}
+
+.art1 img { 
+	width: 100%;
+	height: 100%;
+}
+
+.art2 img {
+	margin-top: 10%;
+	width: 100%;
+	height: 100%;
+}
+
+.art3 img {
+	width: 100%;
+	height: 100%;
+}
+
+.art4 img { 
+	width: 100%;
+	height: 100%;
+}
+
+h3 {
+	display: flex;
+	justify-content: center;
+	font-family: 'Spectral', serif;
+	text-transform: uppercase;
+	font-weight: 600;
+	letter-spacing: 2px;
+	font-size: 50px;
+	margin-top: 25%;
+}
+
+a:link {
+	color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+a:hover {
+	color: #D4AFB9;
+}
+
+a:active {
+	color: #D4AFB9;
+	text-decoration: underline;
+}
+
+
+footer {
+	font-family:'Spectral', serif;
+	margin: 2%;	
+}
+
